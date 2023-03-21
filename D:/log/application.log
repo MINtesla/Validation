@@ -1,0 +1,610 @@
+2023-03-19T01:31:58.237+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 2493 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T01:31:58.241+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T01:32:13.167+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 2501 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T01:32:13.171+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T01:35:50.992+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 2626 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T01:35:50.996+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T01:35:52.576+0530 INFO Started ValidationApplication in 1.725 seconds (process running for 7.238)
+2023-03-19T01:35:52.611+0530 INFO This is a info message
+2023-03-19T01:35:52.611+0530 WARN This is a warn message
+2023-03-19T01:35:52.611+0530 ERROR This is a error message
+2023-03-19T09:05:44.539+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 2975 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T09:05:44.543+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T09:05:46.159+0530 INFO Started ValidationApplication in 1.77 seconds (process running for 7.337)
+2023-03-19T09:05:46.200+0530 INFO This is a info message
+2023-03-19T09:05:46.201+0530 WARN This is a warn message
+2023-03-19T09:05:46.201+0530 ERROR This is a error message
+2023-03-19T14:01:57.067+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4705 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:01:57.072+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:02:34.640+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4725 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:02:34.644+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:02:57.513+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4745 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:02:57.517+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:03:27.668+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4761 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:03:27.671+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:03:47.261+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4775 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:03:47.266+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:04:15.332+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 4806 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:04:15.337+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:28:45.377+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5162 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:28:45.380+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:36:26.622+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5260 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:36:26.626+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:38:07.305+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5287 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:38:07.309+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:38:25.980+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5301 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:38:25.983+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T14:39:28.748+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5321 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T14:39:28.752+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:11:11.565+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5675 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:11:11.569+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:19:50.420+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5778 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:19:50.424+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:19:51.984+0530 INFO Started ValidationApplication in 1.703 seconds (process running for 7.205)
+2023-03-19T15:19:52.020+0530 INFO This is a info message
+2023-03-19T15:19:52.020+0530 WARN This is a warn message
+2023-03-19T15:19:52.020+0530 ERROR This is a error message
+2023-03-19T15:20:44.466+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5811 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:20:44.471+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:21:19.671+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5829 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:21:19.676+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:21:31.823+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5842 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:21:31.827+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:21:45.520+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5855 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:21:45.524+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:21:47.107+0530 INFO Started ValidationApplication in 1.723 seconds (process running for 7.226)
+2023-03-19T15:21:47.136+0530 INFO This is a info message
+2023-03-19T15:21:47.137+0530 WARN This is a warn message
+2023-03-19T15:21:47.137+0530 ERROR This is a error message
+2023-03-19T15:24:26.037+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5966 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:24:26.041+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:24:46.463+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5985 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:24:46.467+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:25:01.261+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 5999 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:25:01.265+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:25:02.801+0530 INFO Started ValidationApplication in 1.684 seconds (process running for 7.161)
+2023-03-19T15:25:02.829+0530 INFO This is a info message
+2023-03-19T15:25:02.830+0530 WARN This is a warn message
+2023-03-19T15:25:02.830+0530 ERROR This is a error message
+2023-03-19T15:25:49.642+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6024 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:25:49.645+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:26:29.171+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6040 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:26:29.174+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:26:51.060+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6055 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:26:51.063+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:27:13.551+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6081 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:27:13.556+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:27:15.048+0530 INFO Started ValidationApplication in 1.635 seconds (process running for 7.152)
+2023-03-19T15:27:15.076+0530 INFO This is a info message
+2023-03-19T15:27:15.076+0530 WARN This is a warn message
+2023-03-19T15:27:15.076+0530 ERROR This is a error message
+2023-03-19T15:27:51.455+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6098 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:27:51.459+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:27:52.965+0530 INFO Started ValidationApplication in 1.645 seconds (process running for 7.139)
+2023-03-19T15:27:52.998+0530 INFO This is a info message
+2023-03-19T15:27:52.998+0530 WARN This is a warn message
+2023-03-19T15:27:52.998+0530 ERROR This is a error message
+2023-03-19T15:28:20.897+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6116 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:28:20.901+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:28:37.851+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6130 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:28:37.854+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:29:02.653+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6144 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:29:02.657+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:29:47.644+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6194 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:29:47.648+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:32:18.456+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6234 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:32:18.460+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:33:51.040+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6287 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:33:51.044+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:41:14.749+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6452 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:41:14.753+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:45:44.911+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6632 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:45:44.916+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:45:46.517+0530 INFO Started ValidationApplication in 1.755 seconds (process running for 7.28)
+2023-03-19T15:45:46.549+0530 INFO This is a info message
+2023-03-19T15:45:46.549+0530 WARN This is a warn message
+2023-03-19T15:45:46.549+0530 ERROR This is a error message
+2023-03-19T15:46:26.258+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 6653 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T15:46:26.261+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T15:46:27.813+0530 INFO Started ValidationApplication in 1.69 seconds (process running for 7.197)
+2023-03-19T15:46:27.845+0530 INFO This is a info message
+2023-03-19T15:46:27.845+0530 WARN This is a warn message
+2023-03-19T15:46:27.845+0530 ERROR This is a error message
+2023-03-19T16:14:55.628+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7026 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:14:55.632+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:14:57.272+0530 INFO Started ValidationApplication in 1.826 seconds (process running for 7.371)
+2023-03-19T16:14:57.302+0530 INFO This is a info message
+2023-03-19T16:14:57.302+0530 WARN This is a warn message
+2023-03-19T16:14:57.303+0530 ERROR This is a error message
+2023-03-19T16:16:11.895+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7110 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:16:11.901+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:16:13.901+0530 INFO Started ValidationApplication in 2.197 seconds (process running for 7.744)
+2023-03-19T16:16:13.933+0530 INFO This is a info message
+2023-03-19T16:16:13.934+0530 WARN This is a warn message
+2023-03-19T16:16:13.934+0530 ERROR This is a error message
+2023-03-19T16:18:42.162+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7153 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:18:42.166+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:18:43.700+0530 INFO Started ValidationApplication in 1.671 seconds (process running for 7.167)
+2023-03-19T16:18:43.732+0530 INFO This is a info message
+2023-03-19T16:18:43.732+0530 WARN This is a warn message
+2023-03-19T16:18:43.732+0530 ERROR This is a error message
+2023-03-19T16:19:56.547+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7207 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:19:56.551+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:19:58.094+0530 INFO Started ValidationApplication in 1.688 seconds (process running for 7.193)
+2023-03-19T16:19:58.124+0530 INFO This is a info message
+2023-03-19T16:19:58.125+0530 WARN This is a warn message
+2023-03-19T16:19:58.125+0530 ERROR This is a error message
+2023-03-19T16:20:06.152+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7222 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:20:06.156+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:20:08.181+0530 INFO Started ValidationApplication in 2.187 seconds (process running for 7.778)
+2023-03-19T16:20:08.218+0530 INFO This is a info message
+2023-03-19T16:20:08.218+0530 WARN This is a warn message
+2023-03-19T16:20:08.218+0530 ERROR This is a error message
+2023-03-19T16:21:20.303+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7272 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:21:20.307+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:21:21.883+0530 INFO Started ValidationApplication in 1.732 seconds (process running for 7.262)
+2023-03-19T16:21:21.913+0530 INFO This is a info message
+2023-03-19T16:21:21.913+0530 WARN This is a warn message
+2023-03-19T16:21:21.913+0530 ERROR This is a error message
+2023-03-19T16:23:07.746+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7318 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:23:07.750+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:23:09.251+0530 INFO Started ValidationApplication in 1.642 seconds (process running for 7.131)
+2023-03-19T16:23:09.280+0530 INFO This is a info message
+2023-03-19T16:23:09.280+0530 WARN This is a warn message
+2023-03-19T16:23:09.280+0530 ERROR This is a error message
+2023-03-19T16:23:39.574+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7346 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:23:39.577+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:23:41.106+0530 INFO Started ValidationApplication in 1.675 seconds (process running for 7.181)
+2023-03-19T16:23:41.137+0530 INFO This is a info message
+2023-03-19T16:23:41.137+0530 WARN This is a warn message
+2023-03-19T16:23:41.137+0530 ERROR This is a error message
+2023-03-19T16:48:24.451+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7755 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:48:24.457+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:48:55.449+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7771 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:48:55.452+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:48:57.461+0530 INFO Started ValidationApplication in 2.156 seconds (process running for 7.675)
+2023-03-19T16:48:57.506+0530 INFO This is a info message
+2023-03-19T16:48:57.506+0530 WARN This is a warn message
+2023-03-19T16:48:57.506+0530 ERROR This is a error message
+2023-03-19T16:52:42.017+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7874 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:52:42.021+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:52:43.972+0530 INFO Started ValidationApplication in 2.14 seconds (process running for 7.71)
+2023-03-19T16:52:44.010+0530 INFO This is a info message
+2023-03-19T16:52:44.011+0530 WARN This is a warn message
+2023-03-19T16:52:44.011+0530 ERROR This is a error message
+2023-03-19T16:53:11.401+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 7909 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T16:53:11.405+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T16:53:12.936+0530 INFO Started ValidationApplication in 1.676 seconds (process running for 7.164)
+2023-03-19T16:53:12.964+0530 INFO This is a info message
+2023-03-19T16:53:12.964+0530 WARN This is a warn message
+2023-03-19T16:53:12.964+0530 ERROR This is a error message
+2023-03-19T20:12:24.884+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 9237 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T20:12:24.887+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T20:12:26.652+0530 INFO Started ValidationApplication in 1.92 seconds (process running for 8.053)
+2023-03-19T20:12:26.681+0530 INFO This is a info message
+2023-03-19T20:12:26.682+0530 WARN This is a warn message
+2023-03-19T20:12:26.682+0530 ERROR This is a error message
+2023-03-19T20:13:40.746+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 9271 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T20:13:40.750+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T20:13:42.267+0530 INFO Started ValidationApplication in 1.662 seconds (process running for 7.269)
+2023-03-19T20:13:42.297+0530 INFO This is a info message
+2023-03-19T20:13:42.297+0530 WARN This is a warn message
+2023-03-19T20:13:42.297+0530 ERROR This is a error message
+2023-03-19T20:28:31.097+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 9660 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T20:28:31.100+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T20:28:32.689+0530 INFO Started ValidationApplication in 1.743 seconds (process running for 7.265)
+2023-03-19T20:28:32.718+0530 INFO This is a info message
+2023-03-19T20:28:32.719+0530 WARN This is a warn message
+2023-03-19T20:28:32.719+0530 ERROR This is a error message
+2023-03-19T21:05:40.374+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 10376 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:05:40.377+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:05:42.176+0530 INFO Started ValidationApplication in 1.965 seconds (process running for 7.621)
+2023-03-19T21:05:42.207+0530 INFO This is a info message
+2023-03-19T21:05:42.207+0530 WARN This is a warn message
+2023-03-19T21:05:42.208+0530 ERROR This is a error message
+2023-03-19T21:06:14.606+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 10394 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:06:14.610+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:06:16.345+0530 INFO Started ValidationApplication in 1.909 seconds (process running for 7.454)
+2023-03-19T21:06:16.374+0530 INFO This is a info message
+2023-03-19T21:06:16.374+0530 WARN This is a warn message
+2023-03-19T21:06:16.374+0530 ERROR This is a error message
+2023-03-19T21:07:18.856+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 10431 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:07:18.861+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:07:21.425+0530 INFO Started ValidationApplication in 2.708 seconds (process running for 8.208)
+2023-03-19T21:07:21.455+0530 INFO This is a info message
+2023-03-19T21:07:21.455+0530 WARN This is a warn message
+2023-03-19T21:07:21.455+0530 ERROR This is a error message
+2023-03-19T21:07:55.551+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 10450 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:07:55.556+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:07:57.254+0530 INFO Started ValidationApplication in 1.993 seconds (process running for 7.646)
+2023-03-19T21:07:57.285+0530 INFO This is a info message
+2023-03-19T21:07:57.285+0530 WARN This is a warn message
+2023-03-19T21:07:57.285+0530 ERROR This is a error message
+2023-03-19T21:58:13.772+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11475 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:58:13.776+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:58:15.379+0530 INFO Started ValidationApplication in 1.755 seconds (process running for 7.334)
+2023-03-19T21:58:15.412+0530 INFO This is a info message
+2023-03-19T21:58:15.412+0530 WARN This is a warn message
+2023-03-19T21:58:15.413+0530 ERROR This is a error message
+2023-03-19T21:59:13.143+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11509 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T21:59:13.147+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T21:59:14.689+0530 INFO Started ValidationApplication in 1.684 seconds (process running for 7.16)
+2023-03-19T21:59:14.721+0530 INFO This is a info message
+2023-03-19T21:59:14.721+0530 WARN This is a warn message
+2023-03-19T21:59:14.722+0530 ERROR This is a error message
+2023-03-19T22:00:07.298+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11539 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:00:07.301+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:00:08.929+0530 INFO Started ValidationApplication in 1.771 seconds (process running for 7.28)
+2023-03-19T22:00:08.971+0530 INFO This is a info message
+2023-03-19T22:00:08.971+0530 WARN This is a warn message
+2023-03-19T22:00:08.971+0530 ERROR This is a error message
+2023-03-19T22:03:51.633+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11734 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:03:51.637+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:03:53.280+0530 INFO Started ValidationApplication in 1.807 seconds (process running for 7.337)
+2023-03-19T22:03:53.311+0530 INFO This is a info message
+2023-03-19T22:03:53.311+0530 WARN This is a warn message
+2023-03-19T22:03:53.311+0530 ERROR This is a error message
+2023-03-19T22:04:18.873+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11764 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:04:18.878+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:04:20.482+0530 INFO Started ValidationApplication in 1.754 seconds (process running for 7.269)
+2023-03-19T22:04:20.521+0530 INFO This is a info message
+2023-03-19T22:04:20.522+0530 WARN This is a warn message
+2023-03-19T22:04:20.522+0530 ERROR This is a error message
+2023-03-19T22:06:15.894+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11892 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:06:15.899+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:06:17.500+0530 INFO Started ValidationApplication in 1.752 seconds (process running for 7.288)
+2023-03-19T22:06:17.532+0530 INFO This is a info message
+2023-03-19T22:06:17.533+0530 WARN This is a warn message
+2023-03-19T22:06:17.533+0530 ERROR This is a error message
+2023-03-19T22:07:22.181+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11959 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:07:22.184+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:07:23.793+0530 INFO Started ValidationApplication in 1.746 seconds (process running for 7.245)
+2023-03-19T22:07:23.822+0530 INFO This is a info message
+2023-03-19T22:07:23.822+0530 WARN This is a warn message
+2023-03-19T22:07:23.822+0530 ERROR This is a error message
+2023-03-19T22:07:44.607+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 11984 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:07:44.610+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:07:46.217+0530 INFO Started ValidationApplication in 1.746 seconds (process running for 7.255)
+2023-03-19T22:07:46.248+0530 INFO This is a info message
+2023-03-19T22:07:46.248+0530 WARN This is a warn message
+2023-03-19T22:07:46.248+0530 ERROR This is a error message
+2023-03-19T22:17:59.123+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 12271 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:17:59.127+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:18:00.966+0530 INFO Started ValidationApplication in 2.008 seconds (process running for 7.815)
+2023-03-19T22:18:00.999+0530 INFO This is a info message
+2023-03-19T22:18:00.999+0530 WARN This is a warn message
+2023-03-19T22:18:00.999+0530 ERROR This is a error message
+2023-03-19T22:26:02.829+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 12513 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T22:26:02.833+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-19T22:26:04.583+0530 INFO Started ValidationApplication in 1.914 seconds (process running for 7.53)
+2023-03-19T22:26:04.620+0530 INFO This is a info message
+2023-03-19T22:26:04.620+0530 WARN This is a warn message
+2023-03-19T22:26:04.620+0530 ERROR This is a error message
+2023-03-19T23:37:00.422+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 13467 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-19T23:37:00.426+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T00:04:58.654+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 13813 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T00:04:58.658+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T00:05:00.249+0530 INFO Started ValidationApplication in 1.747 seconds (process running for 7.332)
+2023-03-20T00:05:00.279+0530 INFO This is a info message
+2023-03-20T00:05:00.280+0530 WARN This is a warn message
+2023-03-20T00:05:00.280+0530 ERROR This is a error message
+2023-03-20T00:05:13.879+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 13834 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T00:05:13.885+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T00:05:15.606+0530 INFO Started ValidationApplication in 1.933 seconds (process running for 7.492)
+2023-03-20T00:05:15.635+0530 INFO This is a info message
+2023-03-20T00:05:15.635+0530 WARN This is a warn message
+2023-03-20T00:05:15.635+0530 ERROR This is a error message
+2023-03-20T00:05:45.846+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 13856 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T00:05:45.849+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:23:33.032+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 14835 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:23:33.036+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:24:40.516+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 14852 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:24:40.520+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:24:58.403+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 14856 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:24:58.407+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:25:00.022+0530 INFO Started ValidationApplication in 1.763 seconds (process running for 7.231)
+2023-03-20T01:25:00.054+0530 INFO This is a info message
+2023-03-20T01:25:00.054+0530 WARN This is a warn message
+2023-03-20T01:25:00.054+0530 ERROR This is a error message
+2023-03-20T01:26:59.213+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 14902 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:26:59.217+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:27:29.586+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 14919 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:27:29.590+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:27:31.149+0530 INFO Started ValidationApplication in 1.704 seconds (process running for 7.212)
+2023-03-20T01:27:31.193+0530 INFO This is a info message
+2023-03-20T01:27:31.193+0530 WARN This is a warn message
+2023-03-20T01:27:31.193+0530 ERROR This is a error message
+2023-03-20T01:33:06.810+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 15002 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:33:06.815+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:33:08.321+0530 INFO Started ValidationApplication in 1.645 seconds (process running for 7.136)
+2023-03-20T01:33:08.358+0530 INFO This is a info message
+2023-03-20T01:33:08.358+0530 WARN This is a warn message
+2023-03-20T01:33:08.358+0530 ERROR This is a error message
+2023-03-20T01:34:09.244+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 15026 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:34:09.248+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:34:10.734+0530 INFO Started ValidationApplication in 1.63 seconds (process running for 7.123)
+2023-03-20T01:34:10.766+0530 INFO This is a info message
+2023-03-20T01:34:10.766+0530 WARN This is a warn message
+2023-03-20T01:34:10.766+0530 ERROR This is a error message
+2023-03-20T01:35:08.405+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 15050 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:35:08.410+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:35:10.020+0530 INFO Started ValidationApplication in 1.754 seconds (process running for 7.198)
+2023-03-20T01:35:10.076+0530 INFO This is a info message
+2023-03-20T01:35:10.076+0530 WARN This is a warn message
+2023-03-20T01:35:10.077+0530 ERROR This is a error message
+2023-03-20T01:49:04.423+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 15303 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T01:49:04.427+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T01:49:06.013+0530 INFO Started ValidationApplication in 1.736 seconds (process running for 7.269)
+2023-03-20T01:49:06.049+0530 INFO This is a info message
+2023-03-20T01:49:06.049+0530 WARN This is a warn message
+2023-03-20T01:49:06.049+0530 ERROR This is a error message
+2023-03-20T02:11:37.333+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 15884 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T02:11:37.337+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T02:11:38.966+0530 INFO Started ValidationApplication in 1.78 seconds (process running for 7.291)
+2023-03-20T02:11:48.804+0530 INFO This is a info message
+2023-03-20T02:11:48.806+0530 WARN This is a warn message
+2023-03-20T02:11:48.806+0530 ERROR This is a error message
+2023-03-20T02:15:59.436+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 16006 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T02:15:59.440+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T02:16:01.115+0530 INFO Started ValidationApplication in 1.826 seconds (process running for 7.356)
+2023-03-20T02:16:01.149+0530 INFO This is a info message
+2023-03-20T02:16:01.149+0530 WARN This is a warn message
+2023-03-20T02:16:01.149+0530 ERROR This is a error message
+2023-03-20T09:16:30.720+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 16756 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T09:16:30.724+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T09:16:32.405+0530 INFO Started ValidationApplication in 1.835 seconds (process running for 7.371)
+2023-03-20T09:16:32.441+0530 INFO This is a info message
+2023-03-20T09:16:32.441+0530 WARN This is a warn message
+2023-03-20T09:16:32.441+0530 ERROR This is a error message
+2023-03-20T09:36:44.007+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 17000 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T09:36:44.010+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T09:36:45.727+0530 INFO Started ValidationApplication in 1.889 seconds (process running for 7.454)
+2023-03-20T09:36:45.764+0530 INFO This is a info message
+2023-03-20T09:36:45.764+0530 WARN This is a warn message
+2023-03-20T09:36:45.764+0530 ERROR This is a error message
+2023-03-20T09:42:06.280+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 17098 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T09:42:06.284+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T09:42:07.758+0530 INFO Twilio initialized ... with account sid AC3c0be0a957ca07ce946a1113173bc0c1 
+2023-03-20T09:42:07.914+0530 INFO Started ValidationApplication in 1.815 seconds (process running for 7.438)
+2023-03-20T09:42:07.957+0530 INFO This is a info message
+2023-03-20T09:42:07.957+0530 WARN This is a warn message
+2023-03-20T09:42:07.957+0530 ERROR This is a error message
+2023-03-20T14:36:37.906+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21215 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:36:37.910+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T14:37:27.842+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21243 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:37:27.845+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T14:38:06.068+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21268 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:38:06.072+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T14:40:24.099+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21408 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:40:24.105+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T14:47:28.857+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21621 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:47:28.861+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T14:48:05.091+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21663 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T14:48:05.095+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T15:08:50.069+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 21859 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T15:08:50.072+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T15:47:21.594+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 22676 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T15:47:21.598+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T15:47:23.234+0530 INFO Started ValidationApplication in 1.786 seconds (process running for 7.332)
+2023-03-20T15:47:23.271+0530 INFO This is a info message
+2023-03-20T15:47:23.271+0530 WARN This is a warn message
+2023-03-20T15:47:23.271+0530 ERROR This is a error message
+2023-03-20T15:49:00.563+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 22762 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T15:49:00.567+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T15:49:02.284+0530 INFO Started ValidationApplication in 1.874 seconds (process running for 7.559)
+2023-03-20T15:49:02.319+0530 INFO This is a info message
+2023-03-20T15:49:02.319+0530 WARN This is a warn message
+2023-03-20T15:49:02.319+0530 ERROR This is a error message
+2023-03-20T15:50:44.890+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 22863 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-20T15:50:44.893+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-20T15:50:46.427+0530 INFO Started ValidationApplication in 1.681 seconds (process running for 7.204)
+2023-03-20T15:50:46.463+0530 INFO This is a info message
+2023-03-20T15:50:46.463+0530 WARN This is a warn message
+2023-03-20T15:50:46.463+0530 ERROR This is a error message
+2023-03-21T00:35:29.281+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29264 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:35:29.285+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:35:30.942+0530 INFO Started ValidationApplication in 1.812 seconds (process running for 7.394)
+2023-03-21T00:35:30.976+0530 INFO This is a info message
+2023-03-21T00:35:30.977+0530 WARN This is a warn message
+2023-03-21T00:35:30.977+0530 ERROR This is a error message
+2023-03-21T00:35:39.535+0530 INFO saving result data in static map with thread : http-nio-8080-exec-2
+2023-03-21T00:35:39.536+0530 INFO Validation Done for the URL with thread : http-nio-8080-exec-2
+2023-03-21T00:36:19.743+0530 INFO Validation Done for the URL with thread : http-nio-8080-exec-3
+2023-03-21T00:36:48.098+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29299 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:36:48.107+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:36:49.856+0530 INFO Started ValidationApplication in 2.121 seconds (process running for 7.732)
+2023-03-21T00:36:49.890+0530 INFO This is a info message
+2023-03-21T00:36:49.890+0530 WARN This is a warn message
+2023-03-21T00:36:49.890+0530 ERROR This is a error message
+2023-03-21T00:37:08.945+0530 INFO saving result data in static map with thread : http-nio-8080-exec-1
+2023-03-21T00:37:08.945+0530 INFO Validation Done for the URL with thread : http-nio-8080-exec-1
+2023-03-21T00:37:08.947+0530 INFO sending the Mail to given emailId with thread : http-nio-8080-exec-1
+2023-03-21T00:40:20.608+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29380 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:40:20.611+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:40:22.251+0530 INFO Started ValidationApplication in 1.792 seconds (process running for 7.326)
+2023-03-21T00:40:22.284+0530 INFO This is a info message
+2023-03-21T00:40:22.285+0530 WARN This is a warn message
+2023-03-21T00:40:22.285+0530 ERROR This is a error message
+2023-03-21T00:40:53.880+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29444 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:40:53.885+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:40:55.483+0530 INFO Started ValidationApplication in 1.765 seconds (process running for 7.387)
+2023-03-21T00:40:55.517+0530 INFO This is a info message
+2023-03-21T00:40:55.517+0530 WARN This is a warn message
+2023-03-21T00:40:55.517+0530 ERROR This is a error message
+2023-03-21T00:43:29.352+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29504 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:43:29.356+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:43:30.939+0530 INFO Started ValidationApplication in 1.729 seconds (process running for 7.221)
+2023-03-21T00:43:30.973+0530 INFO This is a info message
+2023-03-21T00:43:30.973+0530 WARN This is a warn message
+2023-03-21T00:43:30.973+0530 ERROR This is a error message
+2023-03-21T00:44:07.392+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 29539 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T00:44:07.396+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T00:44:09.088+0530 INFO Started ValidationApplication in 1.832 seconds (process running for 7.367)
+2023-03-21T00:44:09.120+0530 INFO This is a info message
+2023-03-21T00:44:09.120+0530 WARN This is a warn message
+2023-03-21T00:44:09.121+0530 ERROR This is a error message
+2023-03-21T06:25:49.722+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30435 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:25:49.726+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:25:51.424+0530 INFO Started ValidationApplication in 1.881 seconds (process running for 7.408)
+2023-03-21T06:25:51.477+0530 INFO This is a info message
+2023-03-21T06:25:51.477+0530 WARN This is a warn message
+2023-03-21T06:25:51.477+0530 ERROR This is a error message
+2023-03-21T06:25:55.190+0530 INFO Validation Done for the URL with thread : http-nio-8080-exec-1
+2023-03-21T06:25:55.207+0530 INFO saving result data in static map with thread : userThread-1
+2023-03-21T06:25:55.207+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:25:55.208+0530 INFO sending the Mail to given emailId with thread : http-nio-8080-exec-1
+2023-03-21T06:33:51.789+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30681 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:33:51.792+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:33:54.328+0530 INFO Started ValidationApplication in 2.707 seconds (process running for 8.641)
+2023-03-21T06:33:54.365+0530 INFO This is a info message
+2023-03-21T06:33:54.365+0530 WARN This is a warn message
+2023-03-21T06:33:54.366+0530 ERROR This is a error message
+2023-03-21T06:33:57.235+0530 INFO Validation Done for the URL with thread : http-nio-8080-exec-2
+2023-03-21T06:33:57.255+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:33:57.255+0530 INFO saving result data in static map with thread : userThread-1
+2023-03-21T06:33:57.256+0530 INFO sending the Mail to given emailId with thread : userThread-3
+2023-03-21T06:36:53.372+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30737 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:36:53.376+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:36:54.965+0530 INFO Started ValidationApplication in 1.729 seconds (process running for 7.253)
+2023-03-21T06:36:55.002+0530 INFO This is a info message
+2023-03-21T06:36:55.002+0530 WARN This is a warn message
+2023-03-21T06:36:55.002+0530 ERROR This is a error message
+2023-03-21T06:36:57.822+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T06:36:57.832+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:36:57.832+0530 INFO saving result data in static map with thread : userThread-3
+2023-03-21T06:36:57.833+0530 INFO sending the Mail to given emailId with thread : userThread-3
+2023-03-21T06:38:02.402+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30762 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:38:02.405+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:38:04.038+0530 INFO Started ValidationApplication in 1.779 seconds (process running for 7.307)
+2023-03-21T06:38:04.080+0530 INFO This is a info message
+2023-03-21T06:38:04.080+0530 WARN This is a warn message
+2023-03-21T06:38:04.080+0530 ERROR This is a error message
+2023-03-21T06:38:08.109+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T06:38:08.112+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:38:08.113+0530 INFO saving result data in static map with thread : userThread-3
+2023-03-21T06:38:08.113+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T06:38:09.662+0530 INFO sending the Message to given msisdn with thread : userThread-3
+2023-03-21T06:42:09.704+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30827 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:42:09.709+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:42:11.332+0530 INFO Started ValidationApplication in 1.775 seconds (process running for 7.323)
+2023-03-21T06:42:11.367+0530 INFO This is a info message
+2023-03-21T06:42:11.367+0530 WARN This is a warn message
+2023-03-21T06:42:11.367+0530 ERROR This is a error message
+2023-03-21T06:42:14.401+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T06:42:14.404+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:42:14.405+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:44:37.731+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T06:44:37.735+0530 INFO sending the Mail to given emailId with thread : userThread-1
+2023-03-21T06:44:39.510+0530 INFO sending the Message to given msisdn with thread : userThread-2
+2023-03-21T06:47:46.717+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 30996 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T06:47:46.720+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T06:47:48.750+0530 INFO Started ValidationApplication in 2.219 seconds (process running for 7.756)
+2023-03-21T06:47:48.792+0530 INFO This is a info message
+2023-03-21T06:47:48.792+0530 WARN This is a warn message
+2023-03-21T06:47:48.792+0530 ERROR This is a error message
+2023-03-21T06:47:58.451+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T06:47:58.454+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T06:47:58.454+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T06:48:00.950+0530 INFO sending the Message to given msisdn with thread : userThread-1
+2023-03-21T07:15:05.413+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31562 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:15:05.417+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:15:07.083+0530 INFO Started ValidationApplication in 1.856 seconds (process running for 7.403)
+2023-03-21T07:15:07.120+0530 INFO This is a info message
+2023-03-21T07:15:07.120+0530 WARN This is a warn message
+2023-03-21T07:15:07.120+0530 ERROR This is a error message
+2023-03-21T07:15:18.291+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:15:18.292+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:15:18.292+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:15:38.843+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T07:16:29.225+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31598 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:16:29.229+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:16:30.854+0530 INFO Started ValidationApplication in 1.83 seconds (process running for 7.564)
+2023-03-21T07:16:30.889+0530 INFO This is a info message
+2023-03-21T07:16:30.889+0530 WARN This is a warn message
+2023-03-21T07:16:30.889+0530 ERROR This is a error message
+2023-03-21T07:16:41.509+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:16:41.510+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:16:41.511+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:17:39.059+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T07:17:43.031+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:17:47.675+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T07:17:48.459+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:17:49.905+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T07:18:15.624+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:18:15.635+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:20:47.014+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31672 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:20:47.018+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:20:48.834+0530 INFO Started ValidationApplication in 2.006 seconds (process running for 7.547)
+2023-03-21T07:20:48.868+0530 INFO This is a info message
+2023-03-21T07:20:48.868+0530 WARN This is a warn message
+2023-03-21T07:20:48.869+0530 ERROR This is a error message
+2023-03-21T07:20:55.409+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:20:55.412+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:20:55.412+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:20:57.120+0530 ERROR Not able to send Message with thread :userThread-1
+2023-03-21T07:21:51.816+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31696 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:21:51.820+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:21:53.401+0530 INFO Started ValidationApplication in 1.722 seconds (process running for 7.222)
+2023-03-21T07:21:53.435+0530 INFO This is a info message
+2023-03-21T07:21:53.435+0530 WARN This is a warn message
+2023-03-21T07:21:53.435+0530 ERROR This is a error message
+2023-03-21T07:21:56.324+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:22:47.472+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31735 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:22:47.475+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:22:49.041+0530 INFO Started ValidationApplication in 1.705 seconds (process running for 7.218)
+2023-03-21T07:22:49.076+0530 INFO This is a info message
+2023-03-21T07:22:49.076+0530 WARN This is a warn message
+2023-03-21T07:22:49.076+0530 ERROR This is a error message
+2023-03-21T07:22:53.562+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:23:54.680+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31760 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:23:54.684+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:23:56.295+0530 INFO Started ValidationApplication in 1.752 seconds (process running for 7.25)
+2023-03-21T07:23:56.329+0530 INFO This is a info message
+2023-03-21T07:23:56.330+0530 WARN This is a warn message
+2023-03-21T07:23:56.330+0530 ERROR This is a error message
+2023-03-21T07:23:58.349+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:23:58.352+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:23:58.353+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:23:59.644+0530 ERROR Not able to send Message with thread :userThread-1
+2023-03-21T07:24:31.281+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31780 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:24:31.284+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:24:32.864+0530 INFO Started ValidationApplication in 1.72 seconds (process running for 7.205)
+2023-03-21T07:24:32.896+0530 INFO This is a info message
+2023-03-21T07:24:32.896+0530 WARN This is a warn message
+2023-03-21T07:24:32.896+0530 ERROR This is a error message
+2023-03-21T07:24:35.300+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:24:35.303+0530 INFO saving result data in static map with thread : userThread-3
+2023-03-21T07:24:35.303+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:24:35.304+0530 INFO sending the Mail to given emailId with thread : userThread-4
+2023-03-21T07:24:36.572+0530 ERROR Not able to send Message with thread :userThread-5
+2023-03-21T07:24:38.021+0530 INFO Validation Done for the URL with thread : userThread-3
+2023-03-21T07:24:38.023+0530 INFO sending the Mail to given emailId with thread : userThread-5
+2023-03-21T07:24:38.315+0530 ERROR Not able to send Message with thread :userThread-3
+2023-03-21T07:24:39.163+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:24:39.165+0530 INFO sending the Mail to given emailId with thread : userThread-1
+2023-03-21T07:24:39.452+0530 ERROR Not able to send Message with thread :userThread-2
+2023-03-21T07:24:40.002+0530 INFO Validation Done for the URL with thread : userThread-3
+2023-03-21T07:24:40.004+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:24:40.300+0530 ERROR Not able to send Message with thread :userThread-3
+2023-03-21T07:24:40.833+0530 INFO Validation Done for the URL with thread : userThread-3
+2023-03-21T07:24:44.737+0530 INFO sending the Mail to given emailId with thread : userThread-4
+2023-03-21T07:24:45.046+0530 ERROR Not able to send Message with thread :userThread-3
+2023-03-21T07:25:05.372+0530 INFO Starting ValidationApplication using Java 19.0.1 with PID 31797 (/Users/ashutoshsingh/Desktop/Validation/target/classes started by ashutoshsingh in /Users/ashutoshsingh/Desktop/Validation)
+2023-03-21T07:25:05.376+0530 INFO No active profile set, falling back to 1 default profile: "default"
+2023-03-21T07:25:06.933+0530 INFO Started ValidationApplication in 1.706 seconds (process running for 7.189)
+2023-03-21T07:25:06.965+0530 INFO This is a info message
+2023-03-21T07:25:06.965+0530 WARN This is a warn message
+2023-03-21T07:25:06.966+0530 ERROR This is a error message
+2023-03-21T07:25:10.901+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:25:10.903+0530 INFO saving result data in static map with thread : userThread-2
+2023-03-21T07:25:10.904+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:25:12.534+0530 ERROR Not able to send Message with thread :userThread-1
+2023-03-21T07:25:12.539+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:25:20.269+0530 INFO sending the Mail to given emailId with thread : userThread-2
+2023-03-21T07:25:20.596+0530 ERROR Not able to send Message with thread :userThread-1
+2023-03-21T07:25:37.089+0530 INFO Validation Done for the URL with thread : userThread-1
+2023-03-21T07:25:37.094+0530 INFO sending the Mail to given emailId with thread : userThread-1
+2023-03-21T07:25:37.418+0530 ERROR Not able to send Message with thread :userThread-2
+2023-03-21T07:25:38.235+0530 INFO Validation Done for the URL with thread : userThread-2
+2023-03-21T07:25:49.421+0530 INFO sending the Mail to given emailId with thread : userThread-1
+2023-03-21T07:25:49.724+0530 ERROR Not able to send Message with thread :userThread-2
