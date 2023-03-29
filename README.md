@@ -9,7 +9,11 @@ in the table or not this leads to sending MSG and Mail as required to show the b
 Tech Stack - Spring boot and Java 
 
 DataBase -           * My SQL   *
+
 Logging -            * Log4j2   *
+
 Connection Pooling - * C3P0     *
+
 Sms Service -        * Twilio   *
+
 Email Service -      * SBS mail *
